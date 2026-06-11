@@ -30,7 +30,7 @@ Training Log:
 [276.87W 2775MHz] ← step 44: 8.35 s/it ← still dropping
 ```
 
-**P2 — but the frequencies are 2775-2790MHz. This is almost the maximum boost clock of the 4090.**
+**P2 - but the frequencies are 2775-2790MHz. This is almost the maximum boost clock of the 4090.**
 
 ---
 
@@ -73,7 +73,7 @@ The GPU operates at maximum frequencies using **55% TDP** in power saving mode.
 
 ## First run (unlimited)
 
-In the first run without power saving, the GPU automatically entered **P0**—the highest performance state—without any manual intervention.
+In the first run without power saving, the GPU automatically entered **P0** the highest performance state without any manual intervention.
 
 The Viking Engine creates such a dense and predictable compute load that the NVIDIA boost algorithm scheduler automatically boosts the GPU to its maximum state.
 
@@ -82,9 +82,9 @@ The Viking Engine creates such a dense and predictable compute load that the NVI
 ## Conclusion
 
 **Viking Engine doesn't just speed up training.**
-It changes how the GPU interacts with the hardware-level frequency scheduler.
+It changes how the GPU interacts with the hardware level frequency scheduler.
 
-The code itself overclocks the hardware—through the quality of the load, not through OC tools.
+The code itself overclocks the hardware through the quality of the load, not through OC tools.
 
 ---
 
