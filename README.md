@@ -1,4 +1,4 @@
-[log_LubR128.txt](https://github.com/user-attachments/files/28821720/log_LubR128.txt)# Viking Engine: Autonomous GPU Overclocking via Workload Quality
+# Viking Engine: Autonomous GPU Overclocking via Workload Quality
 
 **Discovery: Code changes the behavior of the Windows frequency scheduler**
 
@@ -66,6 +66,8 @@ Viking Engine: █████████████████████�
 The GPU operates at maximum frequencies using **55% TDP** in power saving mode.
 
 <img width="3840" height="2160" alt="Снимок экрана (372)" src="https://github.com/user-attachments/assets/2f8a5dda-61dd-441b-9efb-f8f162273455" />
+
+[log_LubR128.txt](https://github.com/user-attachments/files/28821720/log_LubR128.txt)
 
 ---
 
